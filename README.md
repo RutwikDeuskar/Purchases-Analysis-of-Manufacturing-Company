@@ -1,5 +1,5 @@
 # Purchases-Analysis-of-Manufacturing-Company
-
+   (https://github.com/RutwikDeuskar/Purchases-Analysis-of-Manufacturing-Company-Power-Bi-Python-/blob/main/ABC%20Purchase%20Analysis.gif)
 **Purchases Analysis Dashboard - Overview**
 
 This Power BI project, is designed to provide a comprehensive and interactive overview of an organization's procurement and expense behavior. It covers vendor-wise purchases, tax compliance (TDS & GST), state-wise trends, and related party transactions, with a user-friendly custom filter pane and intuitive visual layout.
