@@ -1,8 +1,7 @@
 # Purchases-Analysis-of-Manufacturing-Company
-### 📊 Purchases Analysis Dashboard – Overview
+###  Purchases Analysis Dashboard – Overview
 
-![Filter Pane Demo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw1MHkydjgzdGJ1cXpqNHd5ZXJvbmJydG5xNnowM2FrcmUxM25yMiZlcD12MV9pbnRlcm5hbF9naWZfYnIfaWQmY3Q9Zw/UsgD5nlEadfJLg1vlp/giphy.gif)
-
+![Filter Pane Demo](https://giphy.com/gifs/UsgD5nIEadfJLg1vIp)
 
 This Power BI project, is designed to provide a comprehensive and interactive overview of an organization's procurement and expense behavior. It covers vendor-wise purchases, tax compliance (TDS & GST), state-wise trends, and related party transactions, with a user-friendly custom filter pane and intuitive visual layout.
 
